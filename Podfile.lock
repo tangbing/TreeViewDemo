@@ -1,0 +1,22 @@
+PODS:
+  - RATreeView (2.1.2)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+
+DEPENDENCIES:
+  - RATreeView
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RATreeView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  RATreeView: 380cde0090cfde21dc6ac29137f49d3b768fdd28
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+
+PODFILE CHECKSUM: 5be99075374065beeefa8e4cfc69aa0c3a266c3b
+
+COCOAPODS: 1.5.3
